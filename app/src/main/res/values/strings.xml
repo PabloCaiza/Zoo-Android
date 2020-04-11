@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zoologico</string>
+    <string name="frmLogin_registrar">Registrar</string>
+    <string name="frmLogin_acceder">Acceder</string>
+    <string name="frmLogin_correo">Correo</string>
+    <string name="frmLogin_clave">Contraseña </string>
+    <string name="fmrRegister_edad">Edad</string>
+    <string name="frmRegister_confirmar">Confirmar Contraseña</string>
+    <string name="frmRegister_nombre">Nombre</string>
+    <string name="frmRegister_siguiente">Siguiente</string>
+    <string name="frmRegister_acceder">Acceder a tu cuenta en su lugar</string>
+    <string name="habit">Habitat</string>
+    <string name="tipo">Tipo</string>
+    <string name="frmMenu_animal">Animal</string>
+    <string name="frmMenu_tienda">Tienda</string>
+    <string name="frmMenu">Eliminar</string>
+
+    <string name="frmProduct_costo">Costo</string>
+    <string name="frmProduct_fab">Fabricación </string>
+    <string name="frmProduct_exp">Expiración  </string>
+    <string name="frmMenu_mapa">Mapa</string>
+    <string name="frmModificar">Modificar</string>
+    <string name="guardar">Guardar</string>
+    <string name="menu">Menu</string>
+
+    <string name="regresar">regresar</string>
+</resources>
